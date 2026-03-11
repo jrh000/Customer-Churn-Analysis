@@ -102,7 +102,7 @@ customer-churn-analysis/
 ## What-If Analysis
 The Tableau dashboard includes an interactive **Churn Reduction % parameter** that projects how much revenue is saved if churn is reduced by any amount between 1%–50%.
 
-👉 [Customer Churn Analysis Dashboard]([url](https://public.tableau.com/views/CustomerChurnAnalysis_17732647732610/CustomerChurnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [Customer Churn Analysis Dashboard]((https://public.tableau.com/views/CustomerChurnAnalysis_17732647732610/CustomerChurnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
